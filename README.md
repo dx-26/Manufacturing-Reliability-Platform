@@ -24,8 +24,6 @@ python -m pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Streamlit will print the local URL (normally http://localhost:8501). First startup creates `portfolio.db` with clearly fictional sample records. Database files are excluded from Git. To reset the demo, stop the app and delete `portfolio.db`.
-
 ## Test
 
 ```bash
